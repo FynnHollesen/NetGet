@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "NetGet.WinUI (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "NetGet.WinUI (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
